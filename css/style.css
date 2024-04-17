@@ -343,7 +343,7 @@ section{
 
 .products .box-container .box{
    /* border:var(--border); */
-   box-shadow: 2px 2px 20px #49434321;
+   box-shadow: 2px 2px 20px #ff0000;
    padding:1.5rem;
    position: relative;
    overflow: hidden;
