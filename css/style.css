@@ -342,8 +342,7 @@ section{
 }
 
 .products .box-container .box{
-   /* border:var(--border); */
-   box-shadow: 2px 2px 20px #ff0000;
+   box-shadow: 2px 2px 20px #49434321;
    padding:1.5rem;
    position: relative;
    overflow: hidden;
@@ -414,7 +413,8 @@ section{
    display: flex;
    align-items: center;
    gap:1rem;
-   margin-top: 1.5rem;
+   margin-top: 1.1rem;
+   border-top: 1px solid var(--light-color);
 }
 
 .products .box-container .box .flex .price{
@@ -430,10 +430,10 @@ section{
 
 
 .products .box-container .box .flex .qty{
-   padding:1rem;
-   border:var(--border);
+   padding:1.1em;
+   /* border:var(--border); */
    font-size: 1.8rem;
-   color:var(--black);
+   /* color:var(--black); */
 }
 
 .products .box-container .box .flex .fa-edit{
@@ -692,6 +692,7 @@ section{
 
 .search-form form .fa-search{
    width: 6rem;
+   padding: 1.5rem;
    background-color: var(--black);
    color:var(--white);
    cursor: pointer;
@@ -946,16 +947,18 @@ section{
    color:var(--white);
 }
 
+.footer{
+   background-color: var(--black);
+}
 
 .footer .grid{
    display: grid;
-   grid-template-columns: repeat(auto-fit, minmax(27rem, 1fr));
+   grid-template-columns: repeat(4,  1fr);
    gap:1.5rem;
    align-items: flex-start;
 }
 
 .footer .grid .box{
-   border:var(--border);
    padding:2rem;
    text-align: center;
    height: 100%;
@@ -972,8 +975,9 @@ section{
 .footer .grid .box h3{
    margin:1rem 0;
    font-size: 2rem;
-   color:var(--black);
+   color:var(--white);
    text-transform: capitalize;
+
 }
 
 .footer .grid .box p,
