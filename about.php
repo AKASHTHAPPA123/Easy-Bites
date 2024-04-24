@@ -114,7 +114,7 @@ if(isset($_SESSION['user_id'])){
                <i class="fas fa-star"></i>
                <i class="fas fa-star-half-alt"></i>
             </div>
-            <h3>john deo</h3>
+            <h3>Amit Kumar</h3>
          </div>
 
          <div class="swiper-slide slide">
@@ -127,7 +127,7 @@ if(isset($_SESSION['user_id'])){
                <i class="fas fa-star"></i>
                <i class="fas fa-star-half-alt"></i>
             </div>
-            <h3>john deo</h3>
+            <h3>Akash Thappa</h3>
          </div>
 
          <div class="swiper-slide slide">
@@ -140,7 +140,7 @@ if(isset($_SESSION['user_id'])){
                <i class="fas fa-star"></i>
                <i class="fas fa-star-half-alt"></i>
             </div>
-            <h3>john deo</h3>
+            <h3>Harshit Panjwani</h3>
          </div>
 
          <div class="swiper-slide slide">
@@ -153,7 +153,7 @@ if(isset($_SESSION['user_id'])){
                <i class="fas fa-star"></i>
                <i class="fas fa-star-half-alt"></i>
             </div>
-            <h3>john deo</h3>
+            <h3>Gagandeep</h3>
          </div>
 
          <div class="swiper-slide slide">
@@ -166,7 +166,7 @@ if(isset($_SESSION['user_id'])){
                <i class="fas fa-star"></i>
                <i class="fas fa-star-half-alt"></i>
             </div>
-            <h3>john deo</h3>
+            <h3>Kartikey Tiwari</h3>
          </div>
 
          <div class="swiper-slide slide">
@@ -179,7 +179,7 @@ if(isset($_SESSION['user_id'])){
                <i class="fas fa-star"></i>
                <i class="fas fa-star-half-alt"></i>
             </div>
-            <h3>john deo</h3>
+            <h3>Gaurav Singh</h3>
          </div>
 
       </div>
@@ -193,29 +193,9 @@ if(isset($_SESSION['user_id'])){
 <!-- reviews section ends -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- footer section starts  -->
 <?php include 'components/footer.php'; ?>
 <!-- footer section ends -->=
-
-
-
 
 
 
