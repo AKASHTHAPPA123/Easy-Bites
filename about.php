@@ -74,19 +74,19 @@ At Easy Bites, savor the finest in culinary craftsmanship with our fresh, locall
       <div class="box">
          <img src="images/step-1.png" alt="">
          <h3>choose order</h3>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, dolorem.</p>
+         <p>Explore our diverse menu and select your favorites for a delightful dining experience.</p>
       </div>
 
       <div class="box">
          <img src="images/step-2.png" alt="">
          <h3>fast delivery</h3>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, dolorem.</p>
+         <p>Enjoy quick and reliable delivery, bringing our delicious dishes straight to you.</p>
       </div>
 
       <div class="box">
          <img src="images/step-3.png" alt="">
          <h3>enjoy food</h3>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, dolorem.</p>
+         <p>Savor the perfect blend of flavors and textures in every bite, making every meal a delight.</p>
       </div>
 
    </div>
