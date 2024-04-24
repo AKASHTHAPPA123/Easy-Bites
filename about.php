@@ -120,10 +120,8 @@ At Easy Bites, savor the finest in culinary craftsmanship with our fresh, locall
 
          <div class="swiper-slide slide">
             <img src="images/pic-2.png" alt="">
-            <p>Quick, reliable, and the cheeseburger is a winner!</p>
+            <p>Quick, reliable, and the cheeseburger is a winner. Do try there desserts also!</p>
             <div class="stars">
-               <i class="fas fa-star"></i>
-               <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
                <i class="fas fa-star-half-alt"></i>
@@ -139,7 +137,6 @@ At Easy Bites, savor the finest in culinary craftsmanship with our fresh, locall
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
-               <i class="fas fa-star-half-alt"></i>
             </div>
             <h3>Ankit Gondha</h3>
          </div>
@@ -148,7 +145,6 @@ At Easy Bites, savor the finest in culinary craftsmanship with our fresh, locall
             <img src="images/pic-4.png" alt="">
             <p>Consistently excellent food and speedy delivery!</p>
             <div class="stars">
-               <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
@@ -172,9 +168,8 @@ At Easy Bites, savor the finest in culinary craftsmanship with our fresh, locall
 
          <div class="swiper-slide slide">
             <img src="images/pic-6.png" alt="">
-            <p>Fast, easy, and their pizza is unbeatable!</p>
+            <p>Fast, easy, and their pizza is unbeatable especially the margherita farm house pizza!</p>
             <div class="stars">
-               <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
