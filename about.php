@@ -115,7 +115,7 @@ At Easy Bites, savor the finest in culinary craftsmanship with our fresh, locall
                <i class="fas fa-star"></i>
                <i class="fas fa-star-half-alt"></i>
             </div>
-            <h3>john deo</h3>
+            <h3>Amit Kumar</h3>
          </div>
 
          <div class="swiper-slide slide">
@@ -128,7 +128,7 @@ At Easy Bites, savor the finest in culinary craftsmanship with our fresh, locall
                <i class="fas fa-star"></i>
                <i class="fas fa-star-half-alt"></i>
             </div>
-            <h3>john deo</h3>
+            <h3>Akash Thappa</h3>
          </div>
 
          <div class="swiper-slide slide">
@@ -141,7 +141,7 @@ At Easy Bites, savor the finest in culinary craftsmanship with our fresh, locall
                <i class="fas fa-star"></i>
                <i class="fas fa-star-half-alt"></i>
             </div>
-            <h3>john deo</h3>
+            <h3>Harshit Panjwani</h3>
          </div>
 
          <div class="swiper-slide slide">
@@ -154,7 +154,7 @@ At Easy Bites, savor the finest in culinary craftsmanship with our fresh, locall
                <i class="fas fa-star"></i>
                <i class="fas fa-star-half-alt"></i>
             </div>
-            <h3>john deo</h3>
+            <h3>Gagandeep</h3>
          </div>
 
          <div class="swiper-slide slide">
@@ -167,7 +167,7 @@ At Easy Bites, savor the finest in culinary craftsmanship with our fresh, locall
                <i class="fas fa-star"></i>
                <i class="fas fa-star-half-alt"></i>
             </div>
-            <h3>john deo</h3>
+            <h3>Kartikey Tiwari</h3>
          </div>
 
          <div class="swiper-slide slide">
@@ -180,7 +180,7 @@ At Easy Bites, savor the finest in culinary craftsmanship with our fresh, locall
                <i class="fas fa-star"></i>
                <i class="fas fa-star-half-alt"></i>
             </div>
-            <h3>john deo</h3>
+            <h3>Gaurav Singh</h3>
          </div>
 
       </div>
@@ -194,29 +194,9 @@ At Easy Bites, savor the finest in culinary craftsmanship with our fresh, locall
 <!-- reviews section ends -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- footer section starts  -->
 <?php include 'components/footer.php'; ?>
 <!-- footer section ends -->=
-
-
-
 
 
 

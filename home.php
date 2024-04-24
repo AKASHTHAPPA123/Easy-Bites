@@ -47,9 +47,9 @@ include 'components/add_cart.php';
 
             <div class="swiper-slide slide">
                <div class="content">
-                  <span>order online</span>
+                  <span>Order Online</span>
                   <h3>Delicious Pizza</h3>
-                  <a href="menu.php" class="btn">see menus</a>
+                  <a href="menu.php" class="btn">see Menus</a>
                </div>
                <div class="image">
                   <img src="images/home-img-1.png" alt="">
