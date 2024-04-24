@@ -66,7 +66,7 @@ include 'components/add_cart.php';
          <div class="name"><?= $fetch_products['name']; ?></div>
          <div class="flex">
             <div class="price"><span>₹</span><?= $fetch_products['price']; ?></div>
-            <input type="number" name="qty" class="qty" min="1" max="99" value="1" maxlength="2"">
+            <input type="number" name="qty" class="qty" min="1" max="99" value="1" maxlength="2">
          </div>
          <div class="cartFather"><button type="submit" class="cart" name="add_to_cart">Add To Cart</button></div>
       </form>
@@ -87,35 +87,9 @@ include 'components/add_cart.php';
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- footer section starts  -->
 <?php include 'components/footer.php'; ?>
 <!-- footer section ends -->
-
-
-
-
-
-
 
 
 <!-- custom js file link  -->

@@ -99,15 +99,15 @@ At Easy Bites, savor the finest in culinary craftsmanship with our fresh, locall
 
 <section class="reviews">
 
-   <h1 class="title">customer's reivews</h1>
+   <h1 class="title">customer's reviews</h1>
 
    <div class="swiper reviews-slider">
 
       <div class="swiper-wrapper">
 
          <div class="swiper-slide slide">
-            <img src="images/pic-1.png" alt="">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos voluptate eligendi laborum molestias ut earum nulla sint voluptatum labore nemo.</p>
+            <img src="images/pic-1.jpg" alt="">
+            <p>Effortless online ordering, delicious food every time!</p>
             <div class="stars">
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
@@ -115,12 +115,12 @@ At Easy Bites, savor the finest in culinary craftsmanship with our fresh, locall
                <i class="fas fa-star"></i>
                <i class="fas fa-star-half-alt"></i>
             </div>
-            <h3>Amit Kumar</h3>
+            <h3>Ankit Singh</h3>
          </div>
 
          <div class="swiper-slide slide">
             <img src="images/pic-2.png" alt="">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos voluptate eligendi laborum molestias ut earum nulla sint voluptatum labore nemo.</p>
+            <p>Quick, reliable, and the cheeseburger is a winner!</p>
             <div class="stars">
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
@@ -128,12 +128,12 @@ At Easy Bites, savor the finest in culinary craftsmanship with our fresh, locall
                <i class="fas fa-star"></i>
                <i class="fas fa-star-half-alt"></i>
             </div>
-            <h3>Akash Thappa</h3>
+            <h3>Gaurav Swami</h3>
          </div>
 
          <div class="swiper-slide slide">
-            <img src="images/pic-3.png" alt="">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos voluptate eligendi laborum molestias ut earum nulla sint voluptatum labore nemo.</p>
+            <img src="images/pic-3.jpg" alt="">
+            <p>Good food, but the online orders can be hit or miss.</p>
             <div class="stars">
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
@@ -141,12 +141,12 @@ At Easy Bites, savor the finest in culinary craftsmanship with our fresh, locall
                <i class="fas fa-star"></i>
                <i class="fas fa-star-half-alt"></i>
             </div>
-            <h3>Harshit Panjwani</h3>
+            <h3>Ankit Gondha</h3>
          </div>
 
          <div class="swiper-slide slide">
             <img src="images/pic-4.png" alt="">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos voluptate eligendi laborum molestias ut earum nulla sint voluptatum labore nemo.</p>
+            <p>Consistently excellent food and speedy delivery!</p>
             <div class="stars">
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
@@ -159,7 +159,7 @@ At Easy Bites, savor the finest in culinary craftsmanship with our fresh, locall
 
          <div class="swiper-slide slide">
             <img src="images/pic-5.png" alt="">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos voluptate eligendi laborum molestias ut earum nulla sint voluptatum labore nemo.</p>
+            <p>Disappointing experience, both with ordering and food quality</p>
             <div class="stars">
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
@@ -172,7 +172,7 @@ At Easy Bites, savor the finest in culinary craftsmanship with our fresh, locall
 
          <div class="swiper-slide slide">
             <img src="images/pic-6.png" alt="">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos voluptate eligendi laborum molestias ut earum nulla sint voluptatum labore nemo.</p>
+            <p>Fast, easy, and their pizza is unbeatable!</p>
             <div class="stars">
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
