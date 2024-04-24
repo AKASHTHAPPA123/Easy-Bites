@@ -52,7 +52,8 @@ if(isset($_SESSION['user_id'])){
 
       <div class="content">
          <h3>why choose us?</h3>
-         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, neque debitis incidunt qui ipsum sed doloremque a molestiae in veritatis ullam similique sunt aliquam dolores dolore? Quasi atque debitis nobis!</p>
+         <p>
+At Easy Bites, savor the finest in culinary craftsmanship with our fresh, locally-sourced ingredients and diverse menu offerings. Experience unparalleled dining in an inviting atmosphere, where warm hospitality and exceptional service await. Choose us for a memorable gastronomic journey that delights the senses and leaves a lasting impression</p>
          <a href="menu.php" class="btn">our menu</a>
       </div>
 
