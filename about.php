@@ -86,7 +86,7 @@ At Easy Bites, savor the finest in culinary craftsmanship with our fresh, locall
       <div class="box">
          <img src="images/step-3.png" alt="">
          <h3>enjoy food</h3>
-         <p>Savor the perfect blend of flavors and textures in every bite, making every meal a delight.</p>
+         <p>Savor the perfect blend of flavors  in every bite, making every meal a delight.</p>
       </div>
 
    </div>
