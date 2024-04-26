@@ -13,10 +13,7 @@ Welcome to our food ordering website! This web application is designed to provid
 ### USER :-
 ### Home
 ![home](https://github.com/AKASHTHAPPA123/Easy-Bites/assets/107750114/75ea6e89-8fff-438c-b831-22952604c822)
-![home_dish](https://github.com/AKASHTHAPPA123/Easy-Bites/assets/107750114/9234b6d0-6f95-449a-a5da-1959a52061ba)
 
-### Register
-![register](https://github.com/AKASHTHAPPA123/Easy-Bites/assets/107750114/7ac0760f-0db9-46b0-a54b-9d38bd9c9d25)
 
 ### Login
 ![login](https://github.com/AKASHTHAPPA123/Easy-Bites/assets/107750114/368001c7-6ec9-4be6-a5ad-89a60b191eac)
@@ -27,15 +24,9 @@ Welcome to our food ordering website! This web application is designed to provid
 ### Cart
 ![cart](https://github.com/AKASHTHAPPA123/Easy-Bites/assets/107750114/b7037e2e-1eb3-4aa1-909d-2e1de568cc05)
 
-### Category
-![category](https://github.com/AKASHTHAPPA123/Easy-Bites/assets/107750114/91c9027f-6b41-4017-b17f-77fcd49a19c7)
-![food category](https://github.com/AKASHTHAPPA123/Easy-Bites/assets/107750114/155e8efd-a645-433d-a48f-05d63614b997)
-
 ### Checkout
 ![checkout](https://github.com/AKASHTHAPPA123/Easy-Bites/assets/107750114/29dbfb25-9bae-4184-a764-9da53aee48a9)
 
-### Contact
-![contact](https://github.com/AKASHTHAPPA123/Easy-Bites/assets/107750114/823ec6bd-4418-4cc2-a330-9e0af0e24607)
 
 ### Amin Panel :-
 ### Admin Login
